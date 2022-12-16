@@ -1,3 +1,1 @@
-# Modified VFM 
-
-Modified VFM File Manager plugin for FYP
+# Modified VFM File Manager Plugin
